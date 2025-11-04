@@ -1,7 +1,6 @@
 ### Question:
 
 Print the triangle like this:
-
     *
    ***
   *****
