@@ -1,16 +1,6 @@
 ### Question:
 
-Print the triangle like this:
-
-    *
-
-   ***
-
-  *****
-
- *******
-
-*********
+Print the pyramid triangle with astericks.
 
 
 ### Answer:
