@@ -1,12 +1,14 @@
 ### Question:
 
-Write a method that computes the sum of the digits in an integer. Use the following method
+Write a method that returns the number of days in a year using the following header:
 
-header: public static int sumDigits(long n). For example, sumDigits(234) returns 9 (2 + 3 + 4).
+public static int numberOfDaysInAYear(int year)
+
+Write a test program that displays the number of days in year from 2000 to 2020.
 
 
 
 ### Answer:
 
-see "Task1.java"
+see "Task3.java"
 
